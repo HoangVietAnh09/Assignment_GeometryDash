@@ -1,6 +1,6 @@
-package jade;
+package com.jade;
 
-import util.Constants;
+import com.util.Constants;
 
 import java.awt.*;
 

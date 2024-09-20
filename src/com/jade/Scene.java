@@ -1,4 +1,4 @@
-package jade;
+package com.jade;
 
 import java.awt.*;
 

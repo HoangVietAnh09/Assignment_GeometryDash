@@ -1,4 +1,4 @@
-package components;
+package com.Component;
 
 public class Sprite {
 }

@@ -1,4 +1,5 @@
-package jade;
+package com.jade;
 
 public class Component {
+
 }
