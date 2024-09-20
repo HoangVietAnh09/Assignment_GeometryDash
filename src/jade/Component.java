@@ -1,4 +1,4 @@
-package game;
+package jade;
 
 public class Component {
 }

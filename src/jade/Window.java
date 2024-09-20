@@ -1,11 +1,10 @@
-package game;
+package jade;
 
 import util.Constants;
 import util.Time;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.KeyEvent;
 
 public class Window extends JFrame implements Runnable {
 
