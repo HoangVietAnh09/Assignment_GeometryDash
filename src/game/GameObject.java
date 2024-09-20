@@ -1,2 +1,4 @@
-package game;public class GameObject {
+package game;
+
+public class GameObject {
 }
