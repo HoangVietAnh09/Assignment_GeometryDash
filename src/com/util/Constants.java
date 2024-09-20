@@ -1,4 +1,4 @@
-package util;
+package com.util;
 
 public class Constants {
     public static final int SCREEN_WIDTH = 1280;
