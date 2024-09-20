@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="levelOutput">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/levels/levelOutput.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
