@@ -2,52 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd662321-82e9-48f4-9e3e-552e6423177a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/levelOutput.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projectoop.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BoxBounds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Sprite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GeometryDash/com/main/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GeometryDash/game/KL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GeometryDash/game/LevelEditorScene.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GeometryDash/game/ML.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GeometryDash/game/Scene.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GeometryDash/game/Window.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GeometryDash/util/Constants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/GeometryDash/util/Time.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 7
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "TuanNAb22at"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/HoangVietAnh09/Assignment_GeometryDash.git",
+    "accountId": "2084850e-6715-4935-b7c7-f0c8bcc6d3ad"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2mJtivIIAk0g7QS4pXzcRI6DNjJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "B22DCAT268",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;B22DCAT268&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -65,10 +74,24 @@
       <option name="presentableId" value="Default" />
       <updated>1726806638610</updated>
       <workItem from="1726806640291" duration="230000" />
+      <workItem from="1726807049340" duration="29000" />
+      <workItem from="1726807319147" duration="53000" />
+      <workItem from="1726807539874" duration="270000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
