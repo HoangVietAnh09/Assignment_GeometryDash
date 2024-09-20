@@ -1,6 +1,4 @@
 package com.main;
-
-
 import com.jade.Window;
 
 public class Main {
