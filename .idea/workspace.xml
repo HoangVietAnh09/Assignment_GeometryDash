@@ -1,29 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e0a2c3b-c17f-430a-a826-9c7f2da92931" name="Changes" comment="" />
+    <list default="true" id="bd662321-82e9-48f4-9e3e-552e6423177a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/levelOutput.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectoop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeometryDash/com/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeometryDash/game/KL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeometryDash/game/LevelEditorScene.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeometryDash/game/ML.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeometryDash/game/Scene.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeometryDash/game/Window.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeometryDash/util/Constants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeometryDash/util/Time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
-  <component name="ProjectId" id="2lrg7ECY0JKQDHV7nRLJofs0fTY" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2mJtivIIAk0g7QS4pXzcRI6DNjJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,54 +41,30 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "B22DCAT268",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Geometry Dash/GeometryDash",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/Geometry Dash/GeometryDash/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="GeometryDash" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="GeometryDash" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1e0a2c3b-c17f-430a-a826-9c7f2da92931" name="Changes" comment="" />
-      <created>1725943440126</created>
+      <changelist id="bd662321-82e9-48f4-9e3e-552e6423177a" name="Changes" comment="" />
+      <created>1726806638610</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1725943440126</updated>
-      <workItem from="1725943441151" duration="3651000" />
-      <workItem from="1725949098991" duration="999000" />
-      <workItem from="1725950376308" duration="48000" />
-      <workItem from="1726791104061" duration="7959000" />
-      <workItem from="1726803186331" duration="228000" />
-      <workItem from="1726803923839" duration="306000" />
+      <updated>1726806638610</updated>
+      <workItem from="1726806640291" duration="230000" />
     </task>
     <servers />
   </component>
