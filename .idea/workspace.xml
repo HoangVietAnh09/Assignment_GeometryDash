@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7775a6e2-5cdc-4b41-8e04-fdc621c65fdb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/spritesheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/stereoMadness.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/stereoMadness.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/levels/levelOutput.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Component/BoxBounds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Component/BoxBounds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Component/CameraControls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Component/CameraControls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Component/Component.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Component/Grid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Component/Grid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Component/Ground.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Component/Ground.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Component/LevelEditorControls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Component/LevelEditorControls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Component/ParallaxBackground.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Component/ParallaxBackground.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Component/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Component/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Component/Rigidbody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Component/Rigidbody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Component/Sprite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Component/Sprite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Component/Spritesheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Component/Spritesheet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Component/TriangleBounds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Component/TriangleBounds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dataStructure/AssetPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dataStructure/AssetPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dataStructure/Transform.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dataStructure/Transform.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/file/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/file/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/file/Serialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/file/Serialize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jade/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jade/Camera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jade/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jade/Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jade/GameObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jade/GameObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jade/KL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jade/KL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jade/LevelEditorScene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jade/LevelEditorScene.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jade/LevelScene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jade/LevelScene.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jade/ML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jade/ML.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jade/Renderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jade/Renderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jade/Scene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jade/Scene.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jade/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jade/Window.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ui/MainContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ui/MainContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ui/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ui/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ui/TabItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ui/TabItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/util/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/util/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/util/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/util/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/util/Vector2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/util/Vector2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "TuanNAb22at"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/HoangVietAnh09/Assignment_GeometryDash.git",
+    "accountId": "2084850e-6715-4935-b7c7-f0c8bcc6d3ad"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2mPd8slAxfUowmNDIAPzmqrCeVK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "#14 on B22DCAT268",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Windows/Desktop/Assignment_GeometryDash",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7775a6e2-5cdc-4b41-8e04-fdc621c65fdb" name="Changes" comment="" />
+      <created>1726981988439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726981988439</updated>
+      <workItem from="1726981989479" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
